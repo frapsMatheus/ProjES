@@ -1,7 +1,7 @@
 ProjES
 ======
 
-Matheus Rosendo Pedreira  11/0017749<br>
+Matheus Rosendo Pedreira  11/0017749\n
 Vitor de Araújo Vieira    11/0067151
 Lucas Neves Carvalho      11/0034961
 Marcelo Campos Colletti   10/0113788
