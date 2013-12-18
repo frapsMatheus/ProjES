@@ -1,9 +1,4 @@
-Nos-System
-==========
-
-A framework to control a node oriented service with super-node concept.
-
-ProjES
+Veículo modular em nós
 ======
 
 <p>Matheus Rosendo Pedreira  11/0017749 </p>
