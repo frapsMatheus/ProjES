@@ -1,0 +1,7 @@
+Arduino (C++) - Vitor e Marcelo
+Circuito - Vitor e Tiago
+IceScrum - Matheus e Marcelo
+Team Gantt - Tiago e Matheus
+Doxygen - Vitor
+Teste - Vitor e Lucas
+Android - Lucas e Matheus
